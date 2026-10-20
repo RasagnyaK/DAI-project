@@ -16,4 +16,28 @@ Furthermore, the number of centuries and half-centuries scored by a player can h
 
 If you are still not satisfied, don't worry; we don't know that much either. We can think of it as a grading scheme. Throughout our project, we will be grading players using this formula.
 
+
+Here is the analysis for Left hand batsman and Right Hand Batsman in T20 Format.
+
+## 📊 Statistics Summary —RIGHT HAND BATSMEN (250 Players)
+
+| Column | Count | Mean | Variance |
+|:---|---:|---:|---:|
+| Total Runs | 250 | 913.9040 | 2569835.4285 |
+| Strike Rate | 250 | 122.5667 | 482.9646 |
+| Centuries | 206 | 0.3107 | 1.6786 |
+| Half Centuries | 206 | 4.7718 | 141.9331 |
+| S | 250 | 72.7724 | 778.1117 |
+
+## 📊 Statistics Summary — LEFT HAND BATSMEN(68 Players)
+
+| Column | Count | Mean | Variance |
+|:---|---:|---:|---:|
+| Total Runs | 68 | 1500.5000 | 3463373.6866 |
+| Strike Rate | 68 | 131.2804 | 508.0896 |
+| Centuries | 67 | 0.3731 | 0.9344 |
+| Half Centuries | 67 | 6.8507 | 135.1895 |
+| S | 67 | 84.7283 | 924.3277 |
+
+
 The detailed analysis, methodology, results, and conclusions will be documented.
