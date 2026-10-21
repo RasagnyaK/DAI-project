@@ -40,4 +40,7 @@ Here is the analysis for Left hand batsman and Right Hand Batsman in T20 Format.
 | S | 67 | 84.7283 | 924.3277 |
 
 
+By observing our Grading score S ,we came to a conclusion there is high chances that a left hand batsman perform better than a right hand batsman in T20 format
+
+
 The detailed analysis, methodology, results, and conclusions will be documented.
